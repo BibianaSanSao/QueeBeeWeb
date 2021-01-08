@@ -1,0 +1,222 @@
+/*NAVBAR*/
+.mynav{
+    size: 100px;
+    font-family:"Kalam", sans-serif;
+    font-size:20px;
+    padding: auto;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size:100px;
+    font-family: "Kalam",sans-serif;
+    padding-left: 20px;
+}
+.navbar .navbar-nav{
+    font-size: 22px;
+    padding-right: 20px;
+}
+.smaller-logo { 
+    width: 50px;
+    text-align: center;
+    padding-top: px;
+}
+
+/*BANNER*/
+.img-banner{
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+/*HEADING AND PARAGRAPH*/
+.heading-1{
+    margin-bottom: 50px;
+    
+}
+h1{
+    text-align: center;
+    font-family: "Kalam", sans-serif;
+}
+h2{
+    text-align: center;
+    font-family: "Kalam", sans-serif;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+.p-right{
+    padding: 50px;
+    font-size: 20px;
+    margin-left: ;
+    font-family: "Quicksand", sans-serif;
+}
+.p-left{
+    padding: 50px;
+    font-size: 20px;
+    padding-right: ;
+    font-family: "Quicksand", sans-serif;
+}
+/*IMG*/
+.img-right{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left:;
+    
+}
+.img-left{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+/*CAFE*/
+
+/*BEES*/ 
+.carousel-item{
+    width: 100px;
+    padding-top:20px;
+    text-align: center;
+    margin: auto;
+   
+}
+.list-group{
+    text-align: center;
+}
+/*SHOP*/
+
+/*CONTACT*/
+.form-style{
+    padding-left: 200px;
+    padding-right: 200px;
+   
+}
+.form-check-inline{
+    padding-right:60px;
+    
+}
+btn-warning{
+    background-color: #ffdc71;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position: center;
+    width: 300%;
+    height: 150%;  
+}
+.address{
+    text-align: center;
+    font-family: ;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.fa-phone-square{
+    font-size:55px;
+    color:#ffdc71   
+}
+.fa-home{
+    font-size:55px;
+    color:#ffdc71;
+}
+.call{
+    font-size: 20px;
+    font-family: "Quicksand", sans-serif;
+}
+
+/*FOOTER*/
+.general-footer{
+    margin-top: 30px;
+}
+.follow-us-footer{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.ul-footer{
+    display:  inline-block;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    list-style-type: none;
+    float: clear;
+}
+.footer-social-icons{
+    display:flex;
+    justify-content:center;
+    width:100%;
+    color: #ffdc71;
+}
+.fa-instagram{
+    color:#ffdc71;
+    font-size: 50px;
+    padding: 15px;
+}
+.fa-youtube{
+    color:#ffdc71;
+    font-size: 50px;
+    padding: 15px;
+}
+.fa-facebook{
+    color:#ffdc71;
+    padding: 15px;
+}
+.smaller-logo-1 { 
+    width: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.contact-footer{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.contact-link{
+    font-size: 20px;
+    color:white;
+    text-align: center;
+}
+a:hover {
+color: #ffdc71;
+}
+
+
+
+
+
+
+
+
+
+
+.pb-2{
+    padding-bottom: 20px
+}
+
+
+
+@media(min-width:1200px){
+    .test{
+        margin-right:200px;
+        margin-left: 200px;
+    }
+
+
+    }
+@media(min-width:992px){
+
+ .test{
+        margin-right:200px;
+        margin-left: 200px;
+    }
+
+}
+
+ 
+@media(max-width:767px){
+ .test{
+        margin-right:0px;
+        margin-left: 0px;
+    }
+
+}
