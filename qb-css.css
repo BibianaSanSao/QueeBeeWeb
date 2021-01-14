@@ -115,13 +115,7 @@ p2{
 /*SHOP*/
 
 /*CONTACT*/
-.jumbotron{
-    background: url("Welcome.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 400px;
-}
+
 .form-style{
     padding-left: 200px;
     padding-right: 200px;
