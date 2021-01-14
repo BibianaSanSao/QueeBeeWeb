@@ -1,3 +1,6 @@
+html,body{
+    overflow-x: hidden;
+}
 /*NAVBAR*/
 .mynav{
     size: 100px;
@@ -19,7 +22,7 @@
    
 }
 .smaller-logo { 
-    width: 70px;
+    width: 60px;
     text-align: center;
     padding-top: px;
 }
@@ -65,9 +68,13 @@ p2{
     padding-right: ;
     font-family: "Quicksand", sans-serif;
 }
+
+.qb-heading{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
 /*IMG*/
 .img-right{
-    padding-top: 50px;
     padding-bottom: 50px;
     padding-left:;
     
@@ -77,12 +84,11 @@ p2{
     padding-bottom: 50px;
 }
 
-/*HOME*/
-.link{
+/*HOME   */
+.asset-qb{
     color:#ffdc71;
     text-align: center;
-    
-    
+ 
   
   
 }
@@ -91,7 +97,7 @@ p2{
 /*CAFE*/
 
 /*BEES*/ 
-.carousel-item{
+.carousel-inner{
     width: 100px;
     padding-top:20px;
     text-align: center;
@@ -109,6 +115,13 @@ p2{
 /*SHOP*/
 
 /*CONTACT*/
+.jumbotron{
+    background: url("Welcome.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
 .form-style{
     padding-left: 200px;
     padding-right: 200px;
@@ -178,7 +191,7 @@ btn-warning{
 }
 
 .smaller-logo-1 { 
-    width: 70px;
+    width: 80px;
     text-align: center;
     padding-top: 25px;
 }
@@ -191,8 +204,8 @@ btn-warning{
     padding-top: 20px;
     
 }
-a:hover {
-    color: #ffdc71;
+a:hover{
+    color: #ffdc71 !important;
     background-color: transparent;
     text-decoration: underline;
 }
@@ -214,8 +227,11 @@ a:hover {
 .mbb-5{
     margin-bottom: 50px;
 }
-.pb-2{
+.pbb-2{
     padding-bottom: 20px
+}
+.ptt-4{
+    padding-top: 40px;
 }
 .pt-0{
     padding-top: 0px;
