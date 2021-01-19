@@ -6,7 +6,7 @@ html,body{
     size: 100px;
     font-family:"Quicksand", sans-serif;
     font-size:20px;
-    padding: auto;
+    /*padding: auto;*/
     
 }
 
@@ -24,7 +24,6 @@ html,body{
 .smaller-logo { 
     width: 60px;
     text-align: center;
-    padding-top: px;
 }
 
 /*BANNER*/
@@ -59,13 +58,11 @@ p2{
 .p-right{
     padding: 50px;
     font-size: 20px;
-    margin-left: ;
     font-family: "Quicksand", sans-serif;
 }
 .p-left{
     padding: 50px;
     font-size: 20px;
-    padding-right: ;
     font-family: "Quicksand", sans-serif;
 }
 
@@ -76,7 +73,6 @@ p2{
 /*IMG*/
 .img-right{
     padding-bottom: 50px;
-    padding-left:;
     
 }
 .img-left{
@@ -88,12 +84,8 @@ p2{
 .asset-qb{
     color:#ffdc71;
     text-align: center;
+}
  
-  
-  
-}
-
-}
 /*CAFE*/
 
 /*BEES*/ 
@@ -131,13 +123,11 @@ btn-warning{
 .map-responsive{
     overflow:hidden;
     padding-bottom:50%;
-    position: center;
     width: 300%;
     height: 150%;  
 }
 .address{
     text-align: center;
-    font-family: ;
     font-size: 25px;
     padding-top: 20px;
 }
@@ -175,7 +165,7 @@ btn-warning{
     align-items: center;
     align-content: center;
     list-style-type: none;
-    float: clear;
+    /*float: clear;*/
 }
 .fa{
     color:#ffdc71;
