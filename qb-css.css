@@ -95,12 +95,12 @@ p2{
 
 /*BEES*/ 
 .carousel-inner{
+    height: 450px;
     width: 100px;
-    text-align: center;
-    margin: auto;
-    
-   
+    text-align: center !important;
+    padding-bottom: px;
 }
+
 .list-group{
     text-align: center;
 }
@@ -108,6 +108,7 @@ p2{
     text-align: justify;
     padding-left: 100px;
     padding-right: 100px;
+    padding-top: px;
 }
 /*SHOP*/
 
